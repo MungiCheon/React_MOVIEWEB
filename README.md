@@ -1,5 +1,7 @@
 # Movie Web Service From Nomadcoders
+ ## You need to install react-create-app to see Test site
  ## Test Site → https://mungicheon.github.io/reactmoveapp/
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
